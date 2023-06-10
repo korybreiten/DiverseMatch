@@ -1,0 +1,25 @@
+#topicCard {
+    width: 23rem;
+    color:  #5b4883;
+}
+
+#topicImg {
+    border: 0.3rem solid #997ADB;
+    border-radius: 1rem;
+    object-fit: cover;
+    
+    height: 3rem;
+    width: 3rem;
+    margin: auto auto;
+  }
+
+#topicContent {
+  display: inline;
+  white-space: nowrap;
+  text-align: center;
+  padding: 0.25rem;
+  border: 0.3rem solid #2BC9AF;
+  border-radius: 1rem;
+  text-align: center;
+  background-color: #ff7276;
+}

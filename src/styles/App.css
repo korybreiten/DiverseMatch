@@ -1,0 +1,45 @@
+.App {
+    color: #00AADA;
+    margin: 0 auto;
+    text-align: center;
+  }
+#container {
+  text-align: center;
+  margin: 0 auto;
+  display: inline;
+  white-space: nowrap;
+}
+
+/* 2 columns */
+#sidebar {
+  width: 25rem;
+}
+#content {
+  width: 40rem;
+}
+
+/* container styling */
+#boxCont {
+  background-color: #7A6180;
+  border-radius: 1rem;
+}
+#elementCont {
+  background-color: #DFBDE0;
+  border-radius: 1rem;
+}
+
+  
+  /* @media (prefers-reduced-motion: no-preference) {
+    .App-logo {
+      animation: App-logo-spin infinite 20s linear;
+    }
+  }
+  
+  @keyframes App-logo-spin {
+    from {
+      transform: rotate(0deg);
+    }
+    to {
+      transform: rotate(360deg);
+    }
+  } */
